@@ -1,4 +1,4 @@
-### Hi, I'm Yuri, and I'm a Vue, Nuxt, and MongoDB dev. 👋
+# Hi, I'm a Vue, Nuxt, and MongoDB dev. 👋
 
 
 ### Connect with me:
