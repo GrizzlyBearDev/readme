@@ -2,8 +2,6 @@
 ##### Most of my repo's are private, if you're an employer and want to see some of my non-public work just send me an email or message.
 
 <img align="left" alt="Vue" width="100%" src="https://i.ibb.co/nmLv8SB/ig-judevin-t-BL-6z44e-Hs-unsplash-1.png" />
-<br />
-
 
 ### Languages and Tools:
 
