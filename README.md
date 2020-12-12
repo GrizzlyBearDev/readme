@@ -1,6 +1,9 @@
 # Hi, I'm a full-stack Vue, Nuxt, Flutter, and MongoDB developer.. 👋
 ##### Most of my repo's are private, if you're an employer and want to see some of my non-public work just send me an email or message.
 
+<img align="left" alt="Vue" src="https://images.unsplash.com/photo-1589567764052-a0b1c1099f39?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" />
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Vue" width="26px" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" />
