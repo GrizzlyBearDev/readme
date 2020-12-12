@@ -13,12 +13,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Linux" width="26px" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" />
 <img align="left" alt="Docker" width="26px" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" />
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimagesfree.com%2FGlobe%2Fglobe_png_satellite-view.png&f=1&nofb=1" />][website]
-<br />
 
 [website]: https://grizzlybear.dev
 [linkedin]: https://linkedin.com/in/codeSTACKr
