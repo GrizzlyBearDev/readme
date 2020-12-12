@@ -3,9 +3,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimagesfree.com%2FGlobe%2Fglobe_png_satellite-view.png&f=1&nofb=1" />][website]
 <br />
 
 ### Languages and Tools:
