@@ -1,4 +1,4 @@
-# Hi, I'm a Vue, Nuxt, and MongoDB dev. 👋
+## Hi, I'm a full-stack Vue, Nuxt, Flutter, and MongoDB developer.. 👋
 
 
 ### Connect with me:
