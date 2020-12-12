@@ -5,6 +5,8 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimagesfree.com%2FGlobe%2Fglobe_png_satellite-view.png&f=1&nofb=1" />][website]
 <br />
+### Most of my repo's are private, if you're an employer and want to see some of my non-public work just send me an email or message.
+<br />
 
 ### Languages and Tools:
 
