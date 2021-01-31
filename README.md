@@ -2,6 +2,8 @@
 ##### Most of my repo's are private, if you're an employer and want to see some of my non-public work just send me an email or message.
 
 [![Grizzly Bear Devs's GitHub stats](https://github-readme-stats.vercel.app/api?username=grizzlybeardev&show_icons=true)](https://github.com/grizzlybeardev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grizzlybeardev)](https://github.com/grizzlybeardev/github-readme-stats)
+
 
 ### Languages and Tools:
 
