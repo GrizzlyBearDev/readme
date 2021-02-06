@@ -1,4 +1,4 @@
-# Hi, I'm a full-stackdeveloper.. 👋
+# Hi, I'm a full-stack developer.. 👋
 
 ### My languages and tools:
 
