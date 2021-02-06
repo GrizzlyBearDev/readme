@@ -1,5 +1,7 @@
 # Hi, I'm a full-stack developer.. 👋
 
+[x] Currently available to work
+
 ### My languages and tools:
 
 * Vue
