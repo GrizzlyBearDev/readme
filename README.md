@@ -5,6 +5,8 @@
 
 ### Languages and Tools:
 
+* Flutter
+
 <img align="left" alt="Vue" width="26px" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Nuxt" width="26px" src="https://nuxtjs.org/logos/nuxt.svg" />
 <img align="left" alt="Flutter" width="26px" src="https://www.andreasnesheim.no/wp-content/uploads/2019/05/logo_flutter_1080px_clr.png" />
