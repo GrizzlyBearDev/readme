@@ -1,7 +1,6 @@
-# Hi, I'm a full-stack Vue, Nuxt, Flutter, and MongoDB developer.. 👋
-##### Most of my repo's are private, if you're an employer and want to see some of my non-public work just send me an email or message.
+# Hi, I'm a full-stackdeveloper.. 👋
 ---
-### Languages and Tools:
+### My languages and tools:
 
 * Vue
 * Nuxt
