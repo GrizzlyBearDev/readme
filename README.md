@@ -4,7 +4,6 @@
 
 * Vue
 * Nuxt
-* Dart (with and without Flutter)
 * Flutter
 * NodeJS
 * TypeScript
