@@ -1,4 +1,4 @@
-# Hi, I'm a full-stack developer.. 👋
+# Hi, I'm a full-stack developer typically I find myself on Gitlab! 👋
 
 ### My languages and tools:
 
