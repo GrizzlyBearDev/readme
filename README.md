@@ -1,4 +1,4 @@
-# Hi, I'm a full-stack developer typically I find myself on Gitlab! 👋
+# Welcome to my GitHub profile 👋
 ### GitHub repositories: 56
 ### GitLab repositories: 71
 ### Other repositories: 7
