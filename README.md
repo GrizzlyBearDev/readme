@@ -37,6 +37,12 @@
 <img align="left"  src="https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
 <img align=""  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
+## My setup
+- Macbook Pro 14" M1 Pro
+- iPhone 13
+- iPad mini 6
+- Xiaomi Mi 11 5G
+
 <!-- <img align="left"  src="" />
  -->
 
