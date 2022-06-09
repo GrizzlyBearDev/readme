@@ -1,5 +1,7 @@
 # Hi, I'm a full-stack developer typically I find myself on Gitlab! 👋
-### Total number of repositories: 56
+### Number of GitHub repositories: 56
+### Number of GitLab repositories: 71
+### Number of other respositories: 7
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=grizzlybeardev&count_private=true" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grizzlybeardev" />
