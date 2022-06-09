@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile 👋
-### GitHub repositories: 56
-### GitLab repositories: 71
-### Other repositories: 7
+#### GitHub repositories: 56
+#### GitLab repositories: 71
+#### Other repositories: 7
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=grizzlybeardev&count_private=true" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grizzlybeardev" />
