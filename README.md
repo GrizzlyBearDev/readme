@@ -3,9 +3,6 @@
 #### GitLab repositories: 71
 #### Other repositories: 7
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=grizzlybeardev&count_private=true" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grizzlybeardev" />
-
 ## Front-end
 <img align="left"  src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
 <img align="left"  src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
