@@ -1,7 +1,4 @@
 # Welcome to my GitHub profile 👋
-#### GitHub repositories: 56
-#### GitLab repositories: 71
-#### Other repositories: 7
 
 ## Front-end
 <img align="left"  src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
