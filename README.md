@@ -60,10 +60,7 @@
 <img align=""  src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
 
 ## My setup
-- Macbook Pro 14" M1 Pro
-- iPhone 13
-- iPad mini 6
-- Xiaomi Mi 11 5G
+
 
 <!-- <img align="left"  src="" />
  -->
